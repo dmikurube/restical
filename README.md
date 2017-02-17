@@ -6,6 +6,7 @@ Intent to implement an [iTIP (iCalendar Transport-Independent Interoperability P
 References
 -----------
 
+- [CalConnect: The Calendaring and Scheduling Consortium](https://www.calconnect.org/)
 - [RFC5545: iCalendar](https://tools.ietf.org/html/rfc5545)
 - [RFC5546: iTIP](https://tools.ietf.org/html/rfc5546)
 - [RFC6047: iMIP](https://tools.ietf.org/html/rfc6047)
